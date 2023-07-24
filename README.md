@@ -1,5 +1,5 @@
 # Pomodoro Timer
- A timer that saves from procastionation😀😀😀
+ A Productivity Timer😀😀😀
   
 <p align=”center”>
 <img width=”200" height=”200" src="pomo.gif" alt=”Banner”>
